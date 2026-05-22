@@ -1,6 +1,6 @@
 {
  "name": "@vaibhavt07/pace-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tiny utilities for formatting running pace and duration.",
   "keywords": ["running", "pace", "duration", "format", "strava", "fitness"],
   "license": "MIT",
